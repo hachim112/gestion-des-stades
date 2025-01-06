@@ -1,0 +1,6 @@
+StadeA:GUELMA:disponible
+Stade2:Oran:disponible
+Stade3:Constantine:disponible
+Stade4:Annaba:reservé
+Stade5:Tlemcen:reservé
+stadeB:fojrolB:reservé
