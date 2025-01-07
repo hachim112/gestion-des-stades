@@ -130,11 +130,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## Team Members
-- Hachim Fernane
-- Soheyb Radjetti
-- Khetatba Ilyes
-
----
-
 You can now find all the project details and resources in the GitHub repository: [https://github.com/hachim112/gestion-des-stades](https://github.com/hachim112/gestion-des-stades)
