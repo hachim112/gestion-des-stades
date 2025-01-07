@@ -1,4 +1,3 @@
-Here's an updated version of the README with the names of your colleagues added:
 
 ---
 
